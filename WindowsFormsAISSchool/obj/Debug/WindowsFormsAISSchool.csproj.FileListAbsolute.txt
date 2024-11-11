@@ -1,0 +1,12 @@
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\bin\Debug\WindowsFormsAISSchool.exe.config
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\bin\Debug\WindowsFormsAISSchool.exe
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\bin\Debug\WindowsFormsAISSchool.pdb
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\obj\Debug\WindowsFormsAISSchool.csproj.AssemblyReference.cache
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\obj\Debug\WindowsFormsAISSchool.Form1.resources
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\obj\Debug\WindowsFormsAISSchool.FormStudents.resources
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\obj\Debug\WindowsFormsAISSchool.Properties.Resources.resources
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\obj\Debug\WindowsFormsAISSchool.csproj.GenerateResource.cache
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\obj\Debug\WindowsFormsAISSchool.csproj.CoreCompileInputs.cache
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\obj\Debug\WindowsFormsAISSchool.exe
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\obj\Debug\WindowsFormsAISSchool.pdb
+D:\проги\WindowsFormsAISSchool\WindowsFormsAISSchool\obj\Debug\WindowsFormsAISSchool.FormTeachers.resources

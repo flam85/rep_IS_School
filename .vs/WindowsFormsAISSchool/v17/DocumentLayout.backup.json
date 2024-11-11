@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\windowsformsaisschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|solutionrelative:windowsformsaisschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|d:\\\u043F\u0440\u043E\u0433\u0438\\windowsformsaisschool\\windowsformsaisschool\\formstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|solutionrelative:windowsformsaisschool\\formstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\windowsformsaisschool\\formstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|solutionrelative:windowsformsaisschool\\formstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\windowsformsaisschool\\formteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|solutionrelative:windowsformsaisschool\\formteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\windowsformsaisschool\\formteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|solutionrelative:windowsformsaisschool\\formteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\windowsformsaisschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9007F9EC-E442-4AE7-8F64-E95A09B34432}|WindowsFormsAISSchool\\WindowsFormsAISSchool.csproj|solutionrelative:windowsformsaisschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormStudents.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\FormStudents.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAISSchool\\FormStudents.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\FormStudents.cs",
+              "RelativeToolTip": "WindowsFormsAISSchool\\FormStudents.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAjwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:00:27.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTeachers.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\FormTeachers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAISSchool\\FormTeachers.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\FormTeachers.cs",
+              "RelativeToolTip": "WindowsFormsAISSchool\\FormTeachers.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:37:34.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTeachers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\FormTeachers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAISSchool\\FormTeachers.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\FormTeachers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsAISSchool\\FormTeachers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:33:34.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormStudents.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\FormStudents.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAISSchool\\FormStudents.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\FormStudents.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsAISSchool\\FormStudents.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:25:24.098Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAISSchool\\Form1.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsAISSchool\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:56:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAISSchool\\Form1.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0438\\WindowsFormsAISSchool\\WindowsFormsAISSchool\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsAISSchool\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:53:56.326Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
